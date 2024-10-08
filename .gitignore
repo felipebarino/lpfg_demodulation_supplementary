@@ -78,6 +78,10 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# PDF version of notebooks
+.pdf
+
+
 # IPython
 profile_default/
 ipython_config.py
