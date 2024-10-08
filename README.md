@@ -26,8 +26,6 @@ This repository contains supplementary materials for the research paper 'FBG Sen
 
 ### 1 - Synthetic data generation.txt
 
-It includes the following steps:
-
 * Importing necessary packages, such as NumPy for numerical computation and Matplotlib for plotting.
 
 * Defining the parameters for generating the LPFG spectra, including the desired resonant wavelength, coupling strength, full width at half maximum (FWHM), insertion loss, and a function number to select the type of function used to model the LPFG response (in this case, a Lorentzian function).
@@ -37,8 +35,6 @@ It includes the following steps:
 * Visualizing the generated spectra, including plotting examples of LPFG spectra with different resonant wavelengths and coupling efficiencies.
 
 ### 2 - Exploring the model.txt
-
-It covers the following:
 
 * Importing necessary packages, including TensorFlow and Keras for deep learning, as well as other packages for data manipulation and visualization.
 
@@ -51,8 +47,6 @@ It covers the following:
 * Analyzing the layer outputs as a function of different LPFG parameters, such as resonant wavelength, coupling efficiency, and FWHM. This involves feeding synthetic LPFG spectra with varying parameters to the model and observing the activations of different neurons in each layer. This analysis helps in understanding how the model processes the input data and identifies the relevant features for accurate LPFG demodulation.
 
 ### 3 - Evaluation by measured spectra.txt
-
-* The key aspects covered in this notebook include:
 
 * Importing necessary packages for loading the model, data manipulation, statistical analysis, and visualization.
 
