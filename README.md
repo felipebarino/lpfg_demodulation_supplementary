@@ -70,6 +70,57 @@ This repository contains supplementary materials for the research paper 'Self-At
 
 * Evaluating the performance of the LPFG sensor for refractive index (RI) sensing. This involves characterizing the sensor's response to different concentrations of glycerol/water mixtures, which have varying refractive indices.
 
+
+## Thesis
+
+This model was developed during my Ph.D. research at the Laboratório de Instrumentação e Telemetria at the Universidade Federal de Juiz de Fora. To read the text visit [Ph.D. thesis](https://repositorio.ufjf.br/jspui/handle/ufjf/18165).
+
+## Paper
+
+The results were published at the Journal XX. To read the full text visit the [PUBLISHER WEBSITE](https://www.doi.org/).
+
+## Citation
+
+If you use this repository, please cite this repository and the associated research:
+
+```
+
+@misc{barino2025lpfg_support,
+    author = {Felipe Oliveira Barino},
+    title = {Supporting material for Self-Attention AI Model for Practical Sensor Networking: Demodulation of Long-Period Fiber Grating Sensor Cascaded with FBG Sensor Array},
+    year = {2025},
+    publisher = {GitHub},
+    journal = {GitHub repository},
+    howpublished = {\url{https://github.com/felipebarino/SAFCN_LPFG_FBG},
+    doi = {},
+}
+
+@misc{barino2025lpfg_paper,
+    author = {Felipe Oliveira Barino and Alexandre Bessa dos Santos},
+    title = {Self-Attention AI Model for Practical Sensor Networking: Demodulation of Long-Period Fiber Grating Sensor Cascaded with FBG Sensor Array},
+    year = {2025},
+    publisher = {},
+    journal = {},
+    howpublished = {},
+    doi = {},
+}
+
+@phdthesis{Barino2025,
+   author = {Felipe Oliveira Barino},
+   city = {Juiz de Fora},
+   isbn = {7118910:147},
+   institution = {Universidade Federal de Juiz de Fora},,
+   month = {1},
+   publisher = {Universidade Federal de Juiz de Fora (UFJF)},
+   title = {Machine learning-based long-period fiber grating demodulation: a promising tool for cost-effective in-field implementation},
+   url = {https://repositorio.ufjf.br/jspui/handle/ufjf/18165},
+   year = {2025}
+}
+
+
+```
+
+
 ## Usage
 
 The cells outputs can be seen as is at this repository. These represent the data as subimitted/published.
@@ -80,4 +131,4 @@ To run, the Jupyter notebooks can be run in any Python environment that meets th
 
 ## Contact
 
-If you have any questions, please contact Felipe Oliveira Barino at felipebarino@gmail.com
+If you have any question or suggestion, please contact Felipe Oliveira Barino at felipebarino@gmail.com
