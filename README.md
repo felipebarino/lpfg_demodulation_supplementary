@@ -90,8 +90,7 @@ If you use this repository, please cite this repository and the associated resea
     year = {2025},
     publisher = {GitHub},
     journal = {GitHub repository},
-    howpublished = {\url{https://github.com/felipebarino/SAFCN_LPFG_FBG},
-    doi = {},
+    howpublished = {\url{https://github.com/felipebarino/lpfg_demodulation_supplementary},
 }
 
 @article{barino2025lpfg_paper,
