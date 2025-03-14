@@ -4,6 +4,16 @@
 
 This repository contains supplementary materials for the research paper 'Self-Attention AI Model for Practical Sensor Networking: Demodulation of Long-Period Fiber Grating Sensor Cascaded with FBG Sensor Array' by Felipe Oliveira Barino and Alexandre Bessa dos Santos. The paper proposes a novel and cost-effective method for long-period fiber grating (LPFG) demodulation using a combination of readily available fiber Bragg grating (FBG) sensor arrays and a self-attention AI model. This method eliminates the need for expensive or complex optoelectronics and uses a quasi-distributed sensor network, simplifying integration into industrial settings.
 
+The supplementary material provides:
+
+- Detailed procedures (and code) for synthetic data generation and model evaluation, enabling replication for model development.
+
+- The model and associated results.
+
+- Measurement data used for model evaluation.
+
+- Additional plots that complement the published paper.
+
 ## Repository Structure
 
 - `req.txt`: Contains the requirements to run this repository.
@@ -70,11 +80,19 @@ This repository contains supplementary materials for the research paper 'Self-At
 
 * Evaluating the performance of the LPFG sensor for refractive index (RI) sensing. This involves characterizing the sensor's response to different concentrations of glycerol/water mixtures, which have varying refractive indices.
 
+## Usage
+
+The cells outputs can be seen as is at this repository.
+
+Please note that given the stochastic nature of this proposal, results might slightly vary.
+
+To run, the Jupyter notebooks can be run in any Python environment that meets the requirements (Python 3.10.9 and req.txt file).
 
 ## Thesis
 
-This model was developed during my Ph.D. research at the Laboratório de Instrumentação e Telemetria at the Universidade Federal de Juiz de Fora. To read the text visit [Ph.D. thesis](https://repositorio.ufjf.br/jspui/handle/ufjf/18165).
+This model was developed during my Ph.D. research at the Laboratório de Instrumentação e Telemetria at the Universidade Federal de Juiz de Fora (UFJF). To read the text visit the [UFJF repository](https://repositorio.ufjf.br/jspui/handle/ufjf/18165).
 
+<!--- To be added after publication
 ## Paper
 
 The results were published at the Journal XX. To read the full text visit the [PUBLISHER WEBSITE](https://www.doi.org/).
@@ -115,14 +133,7 @@ If you use this repository, please cite this repository and the associated resea
    year = {2025}
 }
 ```
-
-## Usage
-
-The cells outputs can be seen as is at this repository. These represent the data as subimitted/published.
-
-Please note that given the stochastic nature of this proposal, results might slightly vary.
-
-To run, the Jupyter notebooks can be run in any Python environment that meets the requirements (Python 3.10.9 and req.txt file).
+--->
 
 ## Contact
 
