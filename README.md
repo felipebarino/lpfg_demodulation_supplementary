@@ -1,9 +1,8 @@
 # Self-Attention AI Model for Practical Sensor Networking: Demodulation of Long-Period Fiber Grating Sensor Cascaded with FBG Sensor Array
 
-[![Supplementary DOI](https://zenodo.org/badge/869166266.svg)](https://doi.org/10.5281/zenodo.15024268)
+[![Supplementary DOI](https://img.shields.io/badge/Supplementary%20DOI-https://doi.org/10.5281/zenodo.15024268-blue)](https://doi.org/10.5281/zenodo.15024268)
 
 [![Paper DOI](https://img.shields.io/badge/Paper%20DOI-https://doi.org/10.1109/TIM.2025.3573014-blue)](https://doi.org/10.1109/TIM.2025.3573014)
-
 
 ## Overview
 
