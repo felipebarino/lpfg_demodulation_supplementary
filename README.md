@@ -1,10 +1,13 @@
 # Self-Attention AI Model for Practical Sensor Networking: Demodulation of Long-Period Fiber Grating Sensor Cascaded with FBG Sensor Array
 
-[![DOI](https://zenodo.org/badge/869166266.svg)](https://doi.org/10.5281/zenodo.15024268)
+[![Supplementary DOI](https://zenodo.org/badge/869166266.svg)](https://doi.org/10.5281/zenodo.15024268)
+
+[![Paper DOI](https://img.shields.io/badge/Paper%20DOI-https://doi.org/10.1109/TIM.2025.3573014-blue)](https://doi.org/10.1109/TIM.2025.3573014)
+
 
 ## Overview
 
-This repository contains supplementary materials for the research paper 'Self-Attention AI Model for Practical Sensor Networking: Demodulation of Long-Period Fiber Grating Sensor Cascaded with FBG Sensor Array' by Felipe Oliveira Barino and Alexandre Bessa dos Santos. The paper proposes a novel and cost-effective method for long-period fiber grating (LPFG) demodulation using a combination of readily available fiber Bragg grating (FBG) sensor arrays and a self-attention AI model. This method eliminates the need for expensive or complex optoelectronics and uses a quasi-distributed sensor network, simplifying integration into industrial settings.
+This repository contains supplementary materials for the research paper 'Self-Attention AI Model for Practical Sensor Networking: Demodulation of Long-Period Fiber Grating Sensor Cascaded with FBG Sensor Array' by Felipe Oliveira Barino and Alexandre Bessa dos Santos, published in 2025 by Institute of Electrical and Electronics Engineers (IEEE) in the Transactions of Instrumentation and Measurement. The paper proposes a novel and cost-effective method for long-period fiber grating (LPFG) demodulation using a combination of readily available fiber Bragg grating (FBG) sensor arrays and a self-attention AI model. This method eliminates the need for expensive or complex optoelectronics and uses a quasi-distributed sensor network, simplifying integration into industrial settings.
 
 The supplementary material provides:
 
