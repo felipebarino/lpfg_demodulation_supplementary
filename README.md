@@ -96,49 +96,58 @@ To run, the Jupyter notebooks can be run in any Python environment that meets th
 
 This model was developed during my Ph.D. research at the Laboratório de Instrumentação e Telemetria at the Universidade Federal de Juiz de Fora (UFJF). To read the text visit the [UFJF repository](https://repositorio.ufjf.br/jspui/handle/ufjf/18165).
 
-<!--- To be added after publication
 ## Paper
 
-The results were published at the Journal XX. To read the full text visit the [PUBLISHER WEBSITE](https://www.doi.org/).
+The results were published in the IEEE Transactions on Instrumentation and Measurement. To read the full text visit the [PUBLISHER WEBSITE](https://doi.org/10.1109/TIM.2025.3573014).
 
 ## Citation
 
 If you use this repository, please cite this repository and the associated research:
 
 ```
-@misc{barino2025lpfg_support,
-    author = {Felipe Oliveira Barino},
-    title = {Supporting material for Self-Attention AI Model for Practical Sensor Networking: Demodulation of Long-Period Fiber Grating Sensor Cascaded with FBG Sensor Array},
-    year = {2025},
-    publisher = {GitHub},
-    journal = {GitHub repository},
-    howpublished = {\url{https://github.com/felipebarino/lpfg_demodulation_supplementary},
-    doi = {10.5281/zenodo.15024268}
+@misc{Barino2025_supplementary,
+  author       = {Barino, Felipe Oliveira},
+  title        = {felipebarino/lpfg\_demodulation\_supplementary: v1.2},
+  month        = mar,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1.2},
+  doi          = {10.5281/zenodo.15024269},
+  url          = {https://doi.org/10.5281/zenodo.15024269},
+  swhid        = {swh:1:dir:11b893b715f3e6adbf013bdeebb07a3ec253c2ed
+                   ;origin=https://doi.org/10.5281/zenodo.15024268;vi
+                   sit=swh:1:snp:16739b638b58065430f6b5a466f866431670
+                   0627;anchor=swh:1:rel:b5fee4f053fbf1ea759b0baa81c5
+                   b211fcf9c6fa;path=felipebarino-
+                   lpfg\_demodulation\_supplementary-1051396
+                  },
 }
 
-@article{barino2025lpfg_paper,
-    author = {Felipe Oliveira Barino and Alexandre Bessa dos Santos},
-    title = {Self-Attention AI Model for Practical Sensor Networking: Demodulation of Long-Period Fiber Grating Sensor Cascaded with FBG Sensor Array},
-    year = {2025},
-    publisher = {},
-    journal = {},
-    howpublished = {},
-    doi = {},
+@article{Barino2025_paper,
+  author    = {Barino, Felipe Oliveira and Dos Santos, Alexandre Bessa},
+  journal   = {IEEE Transactions on Instrumentation and Measurement}, 
+  title     = {Self-Attention AI Model for Practical Sensor Networking: Demodulation of Long-Period Fiber Grating Sensor Cascaded with FBG Sensor Array}, 
+  year      = {2025},
+  volume    = {},
+  number    = {},
+  pages     = {1-1},
+  keywords  = {Reflection;Fiber gratings;Demodulation;Sensor arrays;Wavelength measurement;Temperature measurement;Optical reflection;Optical filters;Filters;Feature extraction;fiber optic sensors;Bragg gratings;interrogation;neural networks;self-attention;sensor network},
+  doi       = {10.1109/TIM.2025.3573014}
 }
 
-@phdthesis{Barino2025,
-   author = {Felipe Oliveira Barino},
-   city = {Juiz de Fora},
-   isbn = {7118910:147},
-   institution = {Universidade Federal de Juiz de Fora},
+
+@phdthesis{Barino2025_thesis,
+   author       = {Felipe Oliveira Barino},
+   city         = {Juiz de Fora},
+   isbn         = {7118910:147},
+   institution  = {Universidade Federal de Juiz de Fora},
    month = {1},
-   publisher = {Universidade Federal de Juiz de Fora (UFJF)},
-   title = {Machine learning-based long-period fiber grating demodulation: a promising tool for cost-effective in-field implementation},
-   url = {https://repositorio.ufjf.br/jspui/handle/ufjf/18165},
-   year = {2025}
+   publisher    = {Universidade Federal de Juiz de Fora (UFJF)},
+   title        = {Machine learning-based long-period fiber grating demodulation: a promising tool for cost-effective in-field implementation},
+   url          = {https://repositorio.ufjf.br/jspui/handle/ufjf/18165},
+   year         = {2025}
 }
 ```
---->
 
 ## Contact
 
