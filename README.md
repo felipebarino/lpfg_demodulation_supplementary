@@ -104,6 +104,7 @@ The results were published in the IEEE Transactions on Instrumentation and Measu
 
 If you use this repository, please cite this repository and the associated research:
 
+### This repository
 ```
 @misc{Barino2025_supplementary,
   author       = {Barino, Felipe Oliveira},
@@ -122,7 +123,10 @@ If you use this repository, please cite this repository and the associated resea
                    lpfg\_demodulation\_supplementary-1051396
                   },
 }
+```
 
+### Research paper
+```
 @article{Barino2025_paper,
   author    = {Barino, Felipe Oliveira and Dos Santos, Alexandre Bessa},
   journal   = {IEEE Transactions on Instrumentation and Measurement}, 
@@ -134,8 +138,10 @@ If you use this repository, please cite this repository and the associated resea
   keywords  = {Reflection;Fiber gratings;Demodulation;Sensor arrays;Wavelength measurement;Temperature measurement;Optical reflection;Optical filters;Filters;Feature extraction;fiber optic sensors;Bragg gratings;interrogation;neural networks;self-attention;sensor network},
   doi       = {10.1109/TIM.2025.3573014}
 }
+```
 
-
+### Thesis
+```
 @phdthesis{Barino2025_thesis,
    author       = {Felipe Oliveira Barino},
    city         = {Juiz de Fora},
